@@ -1,0 +1,20 @@
+name: flutter_typed_redux
+description: A set of utilities that allow you to easily consume a Typed Redux Store to build Flutter Widgets.
+version: 0.1.0
+repository: https://github.com/Maksimka101/typed_redux
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  typed_redux: ^0.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:

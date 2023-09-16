@@ -1,0 +1,13 @@
+name: typed_redux
+description: The dart package that adds types to the original redux package.
+version: 0.1.0
+repository: https://github.com/Maksimka101/typed_redux
+
+environment:
+  sdk: ^3.1.0
+
+# dependencies:
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0

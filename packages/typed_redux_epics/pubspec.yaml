@@ -1,0 +1,15 @@
+name: typed_redux_epics
+description: A typed redux Middleware that helps you perform side effects using Streams
+version: 0.1.0
+repository: https://github.com/Maksimka101/typed_redux
+
+environment:
+  sdk: ^3.1.0
+
+dependencies:
+  rxdart: ^0.27.7
+  typed_redux: ^0.1.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
